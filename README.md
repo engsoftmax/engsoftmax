@@ -10,6 +10,9 @@
 
 ■ Abraço ■
 <br>
+
+# Top Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=engsoftmax&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) <br>
 <br>
 <p align="left">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
