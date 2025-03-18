@@ -1,5 +1,5 @@
 ## Hi! 👋
-# :gear: Software Enginner - Java 
+# :gear: Software Enginner 
 
 
 - Hello! They call me Max!
